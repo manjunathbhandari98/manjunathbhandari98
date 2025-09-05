@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Spring Boot**
+- 💼 I'm currently working on: **💻 Building a vehicle repair booking platform using React and Spring Boot.**
 - 🌱 I'm currently learning: **📚 Exploring Redux, Docker, NextJs**
 - 💬 Ask me about: **💡 JavaScript, React, Spring Boot, Java, SQL, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **I once found a bug by accidentally misspelling a variable name... twice.**
