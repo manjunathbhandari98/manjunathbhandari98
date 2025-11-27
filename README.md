@@ -19,10 +19,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Building a Task Management platform using React and Spring Boot.**
-- 🌱 I'm currently learning: **📚 Exploring Redux, Docker, NextJs**
+- 💼 I'm currently working on: **💻 AI-powered email generator application using Angular and Spring Boot.**
+- 🌱 I'm currently learning: **📚 Exploring Redux,Angular, Docker, NextJs**
 - 💬 Ask me about: **💡 JavaScript, React, Spring Boot, Java, SQL, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **I once found a bug by accidentally misspelling a variable name... twice.**
+- ⚡ Fun fact: **I often learn more from bugs than from features.**
 - 📂 Portfolio: **<a href="https://28-miles.vercel.app/" target="_blank">https://28-miles.vercel.app/</a>**
 
  **<h3 align="left">Skills</h3>**
@@ -40,3 +40,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunathbhandari98&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+**<quote>Every bug you fix is a version upgrade of yourself.</quote>**
